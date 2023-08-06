@@ -14,7 +14,7 @@
 | -------- | -------- | -------- |
 | 1. [terraform-project](https://github.com/mehmetmgrsl/terraform-project) | 1. [aws-cost-optimization](https://github.com/mehmetmgrsl/aws-cost-optimization) | 1. [argo-cd-multi-cluster-architectures](https://github.com/mehmetmgrsl/argo-cd-multi-cluster-architectures) |
 |  |  | 2. [example-argocd-config](https://github.com/mehmetmgrsl/example-argocd-config)|
-|  |  | 3. [minikube-argocd-ingre](https://github.com/mehmetmgrsl/minikube-argocd-ingre)|
+|  |  | 3. [minikube-argocd-ingress](https://github.com/mehmetmgrsl/minikube-argocd-ingress)|
 |  |  | 4. [argocd-with-helm](https://github.com/mehmetmgrsl/argocd-with-helm)|
 
 ---
