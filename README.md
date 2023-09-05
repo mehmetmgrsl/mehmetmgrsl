@@ -6,9 +6,10 @@
 | 2. [kube-green-work](https://github.com/mehmetmgrsl/kube-green-work) | 2. [prometheus-alert-demo](https://github.com/mehmetmgrsl/prometheus-alert-demo) | 2. [maven-cicd-demo](https://github.com/mehmetmgrsl/maven-cicd-demo) |
 | 3. [k8s-statefulset](https://github.com/mehmetmgrsl/k8s-statefulset) | | 3. [gradle-cicd-demo](https://github.com/mehmetmgrsl/gradle-cicd-demo)|
 | 4. [k8s-autoscaling](https://github.com/mehmetmgrsl/k8s-autoscaling)||
-| 5. [kops-work](https://github.com/mehmetmgrsl/kops-work) |  |  |
-| 6. [create-k8s-cluster](https://github.com/mehmetmgrsl/create-k8s-cluster) |  |  |
-| 7. [create-k8s-cluster-with-ansible](https://github.com/mehmetmgrsl/create-k8s-cluster-with-ansible) |  |  |
+| 5. [keda-work](https://github.com/mehmetmgrsl/keda-work)||
+| 6. [kops-work](https://github.com/mehmetmgrsl/kops-work) |  |  |
+| 7. [create-k8s-cluster](https://github.com/mehmetmgrsl/create-k8s-cluster) |  |  |
+| 8. [create-k8s-cluster-with-ansible](https://github.com/mehmetmgrsl/create-k8s-cluster-with-ansible) |  |  |
 
 
 | IAC | Cloud | GitOps |
