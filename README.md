@@ -24,6 +24,7 @@
 My LinkedIn:
 [<img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-16x16.png" alt="LinkedIn" class="linkedin-icon">](https://www.linkedin.com/in/mehmetmustafagursul/)
 
-![DevOps with Mehmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmetmgrsl\&rank_icon=github)
+![DevOps with Mehmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmetmgrsl&show_icons=true&theme=radical)
+
 
 
