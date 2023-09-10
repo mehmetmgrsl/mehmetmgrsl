@@ -2,7 +2,7 @@
 
 | Kubernetes | Monitoring | FinOps |
 | -------- | -------- | -------- |
-| 1. [kyverno-work](https://github.com/mehmetmgrsl/kyverno-work) | 1. [k8s-prometheus-grafana](https://github.com/mehmetmgrsl/k8s-prometheus-grafana) | 
+| 1. [kyverno-work](https://github.com/mehmetmgrsl/kyverno-work) | 1. [k8s-prometheus-grafana](https://github.com/mehmetmgrsl/k8s-prometheus-grafana) | 1. [aws-cost-optimization](https://github.com/mehmetmgrsl/aws-cost-optimization)
 | 2. [kube-green-work](https://github.com/mehmetmgrsl/kube-green-work) | 2. [prometheus-alert-demo](https://github.com/mehmetmgrsl/prometheus-alert-demo) | 
 | 3. [k8s-statefulset](https://github.com/mehmetmgrsl/k8s-statefulset) | 
 | 4. [k8s-autoscaling](https://github.com/mehmetmgrsl/k8s-autoscaling)||
