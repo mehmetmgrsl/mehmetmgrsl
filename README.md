@@ -19,6 +19,7 @@
 |  | 2. [eks-work](https://github.com/mehmetmgrsl/eks-work)  | 2. [example-argocd-config](https://github.com/mehmetmgrsl/example-argocd-config)| 2. [maven-cicd-demo](https://github.com/mehmetmgrsl/maven-cicd-demo) |
 |  |  | 3. [minikube-argocd-ingress](https://github.com/mehmetmgrsl/minikube-argocd-ingress)| 3. [gradle-cicd-demo](https://github.com/mehmetmgrsl/gradle-cicd-demo)|
 |  |  | 4. [argocd-with-helm](https://github.com/mehmetmgrsl/argocd-with-helm)| 4. [golang-cicd-demo](https://github.com/mehmetmgrsl/example-book-app)
+|  |  | 5. [argocd-app-of-apps](https://github.com/mehmetmgrsl/argocd-app-of-apps)|
 
 ---
 
