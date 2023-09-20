@@ -5,7 +5,7 @@
 | 1. [kyverno-work](https://github.com/mehmetmgrsl/kyverno-work) | 1. [k8s-prometheus-grafana](https://github.com/mehmetmgrsl/k8s-prometheus-grafana) | 1. [aws-cost-optimization](https://github.com/mehmetmgrsl/aws-cost-optimization)
 | 2. [kube-green-work](https://github.com/mehmetmgrsl/kube-green-work) | 2. [prometheus-alert-demo](https://github.com/mehmetmgrsl/prometheus-alert-demo) | 
 | 3. [k8s-statefulset](https://github.com/mehmetmgrsl/k8s-statefulset) | 3. [EFK (Elasticsearch, Fluentd, Kibana) - work](https://github.com/mehmetmgrsl/efk-work)
-| 4. [k8s-autoscaling](https://github.com/mehmetmgrsl/k8s-autoscaling)||
+| 4. [k8s-autoscaling](https://github.com/mehmetmgrsl/k8s-autoscaling)| 4. [grafana-loki-work](https://github.com/mehmetmgrsl/grafana-loki-work) |
 | 5. [keda-work](https://github.com/mehmetmgrsl/keda-work)||
 | 6. [kops-work](https://github.com/mehmetmgrsl/kops-work) |  |  |
 | 7. [create-k8s-cluster](https://github.com/mehmetmgrsl/create-k8s-cluster) |  |  |
