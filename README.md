@@ -3,7 +3,7 @@
 | Kubernetes | Monitoring | FinOps | DevSecOps |
 | -------- | -------- | -------- |-------- |
 | 1. [kyverno-work](https://github.com/mehmetmgrsl/kyverno-work) | 1. [k8s-prometheus-grafana](https://github.com/mehmetmgrsl/k8s-prometheus-grafana) | 1. [aws-cost-optimization](https://github.com/mehmetmgrsl/aws-cost-optimization) | 1. [copacetic-work](https://github.com/mehmetmgrsl/copacetic-work)
-| 2. [keda-work](https://github.com/mehmetmgrsl/keda-work)| 2. [prometheus-alert-demo](https://github.com/mehmetmgrsl/prometheus-alert-demo) | 2. [kube-green-work](https://github.com/mehmetmgrsl/kube-green-work)  | 
+| 2. [keda-work](https://github.com/mehmetmgrsl/keda-work)| 2. [prometheus-alert-demo](https://github.com/mehmetmgrsl/prometheus-alert-demo) | 2. [kube-green-work](https://github.com/mehmetmgrsl/kube-green-work)  | 2. [kube-score-work](https://github.com/mehmetmgrsl/kube-score-work)
 | 3. [k8s-autoscaling](https://github.com/mehmetmgrsl/k8s-autoscaling)| 3. [efk-work](https://github.com/mehmetmgrsl/efk-work) | 
 | 4. [k8s-statefulset](https://github.com/mehmetmgrsl/k8s-statefulset)| 4. [grafana-loki-work](https://github.com/mehmetmgrsl/grafana-loki-work) | | 
 | 5. [kops-work](https://github.com/mehmetmgrsl/kops-work)|| | 
