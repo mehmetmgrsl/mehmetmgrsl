@@ -6,7 +6,7 @@
 | 2. [k8s-autoscaling](https://github.com/mehmetmgrsl/k8s-autoscaling)| 2. [prometheus-alert-demo](https://github.com/mehmetmgrsl/prometheus-alert-demo) | 2. [kube-green-work](https://github.com/mehmetmgrsl/kube-green-work)  | 2. [kube-score-work](https://github.com/mehmetmgrsl/kube-score-work)
 | 3. [k8s-statefulset](https://github.com/mehmetmgrsl/k8s-statefulset) | 3. [efk-work](https://github.com/mehmetmgrsl/efk-work) | 3. [keda-work](https://github.com/mehmetmgrsl/keda-work) | 3. [sealed-secrets-work](https://github.com/mehmetmgrsl/sealed-secrets-work)
 | 4. [kops-work](https://github.com/mehmetmgrsl/kops-work) | 4. [grafana-loki-work](https://github.com/mehmetmgrsl/grafana-loki-work) | | 
-| 5. [create-k8s-cluster](https://github.com/mehmetmgrsl/create-k8s-cluster) || | 
+| 5. [create-k8s-cluster](https://github.com/mehmetmgrsl/create-k8s-cluster) | 5. [metrics-server-work](https://github.com/mehmetmgrsl/metrics-server-work)| | 
 | 6. [create-k8s-cluster-with-ansible](https://github.com/mehmetmgrsl/create-k8s-cluster-with-ansible) |  |  | | 
 | 7. [k8s-operator-work](https://github.com/mehmetmgrsl/k8s-operator-work) |  |  | | 
 | 8. [k8s-chaos-mesh-work](https://github.com/mehmetmgrsl/k8s-chaos-mesh-work)|  |  | | 
