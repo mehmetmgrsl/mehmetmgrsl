@@ -11,6 +11,7 @@
 | 7. [k8s-operator-work](https://github.com/mehmetmgrsl/k8s-operator-work) |  |  | | 
 | 8. [k8s-chaos-mesh-work](https://github.com/mehmetmgrsl/k8s-chaos-mesh-work)|  |  | | 
 | 9. [k8s-litmus-chaos-work](https://github.com/mehmetmgrsl/k8s-litmus-chaos-work)|  |  | | 
+| 10. [kustomize-work](https://github.com/mehmetmgrsl/kustomize-work)|  |  | | 
 
 
 | IAC | Cloud | GitOps | CI/CD |
