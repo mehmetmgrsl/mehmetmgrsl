@@ -21,6 +21,7 @@
 |  | 3. [karpenter-work](https://github.com/mehmetmgrsl/karpenter-work)  | 3. [minikube-argocd-ingress](https://github.com/mehmetmgrsl/minikube-argocd-ingress)| 3. [gradle-cicd-demo](https://github.com/mehmetmgrsl/gradle-cicd-demo)|
 |  | 4. [route53-work](https://github.com/mehmetmgrsl/route53-work) | 4. [argocd-with-helm](https://github.com/mehmetmgrsl/argocd-with-helm)| 4. [golang-cicd-demo](https://github.com/mehmetmgrsl/example-book-app)
 |  | 5. [aws-simple-webapp](https://github.com/mehmetmgrsl/aws-simple-webapp) | 5. [argocd-app-of-apps](https://github.com/mehmetmgrsl/argocd-app-of-apps)|
+|  | 6. [aws-direct-connect-work](https://github.com/mehmetmgrsl/aws-direct-connect-work) ||
 
 ---
 
