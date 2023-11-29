@@ -23,6 +23,7 @@
 |  | 5. [aws-simple-webapp](https://github.com/mehmetmgrsl/aws-simple-webapp) | 5. [argocd-app-of-apps](https://github.com/mehmetmgrsl/argocd-app-of-apps)|
 |  | 6. [aws-direct-connect-work](https://github.com/mehmetmgrsl/aws-direct-connect-work) ||
 |  | 7. [step-functions-work](https://github.com/mehmetmgrsl/step-functions-work) ||
+|  | 8. [aws-apprunner-work](https://github.com/mehmetmgrsl/aws-apprunner-work) ||
 ---
 
 My LinkedIn:
