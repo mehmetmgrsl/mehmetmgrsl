@@ -8,7 +8,7 @@
 | 4. [kops-work](https://github.com/mehmetmgrsl/kops-work) | 4. [grafana-loki-work](https://github.com/mehmetmgrsl/grafana-loki-work) | | 4. [aws-vault-work](https://github.com/mehmetmgrsl/aws-vault-work)
 | 5. [create-k8s-cluster](https://github.com/mehmetmgrsl/create-k8s-cluster) | 5. [metrics-server-work](https://github.com/mehmetmgrsl/metrics-server-work)| | 5. [saml-work](https://github.com/mehmetmgrsl/saml-work)
 | 6. [create-k8s-cluster-with-ansible](https://github.com/mehmetmgrsl/create-k8s-cluster-with-ansible) | 6. [aws-cloudwatch-work](https://github.com/mehmetmgrsl/aws-cloudwatch-work) | | 6. [aws-guardduty-work](https://github.com/mehmetmgrsl/aws-guardduty-work)
-| 7. [k8s-operator-work](https://github.com/mehmetmgrsl/k8s-operator-work) |  |  | 
+| 7. [k8s-operator-work](https://github.com/mehmetmgrsl/k8s-operator-work) |  | |  7. [aws-kms-work](https://github.com/mehmetmgrsl/aws-kms-work)
 | 8. [k8s-chaos-mesh-work](https://github.com/mehmetmgrsl/k8s-chaos-mesh-work)|  |  | 
 | 9. [k8s-litmus-chaos-work](https://github.com/mehmetmgrsl/k8s-litmus-chaos-work)|  |  | 
 | 10. [kustomize-work](https://github.com/mehmetmgrsl/kustomize-work)|  |  | 
