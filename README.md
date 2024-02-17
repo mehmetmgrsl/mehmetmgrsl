@@ -24,6 +24,8 @@
 |  | 6. [aws-direct-connect-work](https://github.com/mehmetmgrsl/aws-direct-connect-work) ||
 |  | 7. [step-functions-work](https://github.com/mehmetmgrsl/step-functions-work) ||
 |  | 8. [aws-apprunner-work](https://github.com/mehmetmgrsl/aws-apprunner-work) ||
+|  | 9. [aws-gen-ai-work](https://github.com/mehmetmgrsl/aws-gen-ai-work) ||
+
 ---
 
 My LinkedIn:
