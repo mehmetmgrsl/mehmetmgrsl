@@ -25,7 +25,7 @@
 |  | 7. [step-functions-work](https://github.com/mehmetmgrsl/step-functions-work) ||
 |  | 8. [aws-apprunner-work](https://github.com/mehmetmgrsl/aws-apprunner-work) ||
 |  | 9. [aws-gen-ai-work](https://github.com/mehmetmgrsl/aws-gen-ai-work) ||
-|  | 10. [aws-rds-backup](https://github.com/mehmetmgrsl/aws-rds-backup) ||
+|  | 10. [aws-rds-work](https://github.com/mehmetmgrsl/aws-rds-work) ||
 ---
 
 My LinkedIn:
