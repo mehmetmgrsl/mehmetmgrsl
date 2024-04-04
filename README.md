@@ -26,6 +26,7 @@
 |  | 8. [aws-apprunner-work](https://github.com/mehmetmgrsl/aws-apprunner-work) ||
 |  | 9. [aws-gen-ai-work](https://github.com/mehmetmgrsl/aws-gen-ai-work) ||
 |  | 10. [aws-rds-work](https://github.com/mehmetmgrsl/aws-rds-work) ||
+|  | 11. [aws-wafrs-work](https://github.com/mehmetmgrsl/aws-wafrs-work) ||
 ---
 
 My LinkedIn:
