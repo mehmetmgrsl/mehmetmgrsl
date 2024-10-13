@@ -30,7 +30,6 @@
 
 ---
 
-https://github.com/mehmetmgrsl/aws-steampipe-work
 
 My LinkedIn:
 [<img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-16x16.png" alt="LinkedIn" class="linkedin-icon">](https://www.linkedin.com/in/mehmetmustafagursul/)
