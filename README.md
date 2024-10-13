@@ -10,8 +10,7 @@
 | 6. [create-k8s-cluster-with-ansible](https://github.com/mehmetmgrsl/create-k8s-cluster-with-ansible) | 6. [aws-cloudwatch-work](https://github.com/mehmetmgrsl/aws-cloudwatch-work) | | 6. [aws-guardduty-work](https://github.com/mehmetmgrsl/aws-guardduty-work)
 | 7. [k8s-operator-work](https://github.com/mehmetmgrsl/k8s-operator-work) |  | |  7. [aws-kms-work](https://github.com/mehmetmgrsl/aws-kms-work)
 | 8. [k8s-chaos-mesh-work](https://github.com/mehmetmgrsl/k8s-chaos-mesh-work)|  |  | 8. [aws-waf-work](https://github.com/mehmetmgrsl/aws-waf-work)
-| 9. [k8s-litmus-chaos-work](https://github.com/mehmetmgrsl/k8s-litmus-chaos-work)|  |  | 9. [aws-prawler-work](https://github.com/mehmetmgrsl/aws-prawler-work)
-| 10. [kustomize-work](https://github.com/mehmetmgrsl/kustomize-work)|  |  | 
+| 9. [kustomize-work](https://github.com/mehmetmgrsl/kustomize-work) |  |  | 9. [aws-prawler-work](https://github.com/mehmetmgrsl/aws-prawler-work)
 
 
 | IAC | Cloud | GitOps | CI/CD |
@@ -25,8 +24,13 @@
 |  | 7. [step-functions-work](https://github.com/mehmetmgrsl/step-functions-work) ||
 |  | 8. [aws-apprunner-work](https://github.com/mehmetmgrsl/aws-apprunner-work) ||
 |  | 9. [aws-gen-ai-work](https://github.com/mehmetmgrsl/aws-gen-ai-work) ||
-|  | 10. [aws-rds-work](https://github.com/mehmetmgrsl/aws-rds-work) |
+|  | 10. [aws-rds-work](https://github.com/mehmetmgrsl/aws-rds-work) ||
+|  | 11. [aws-steampipe-work](https://github.com/mehmetmgrsl/aws-steampipe-work) ||
+
+
 ---
+
+https://github.com/mehmetmgrsl/aws-steampipe-work
 
 My LinkedIn:
 [<img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-16x16.png" alt="LinkedIn" class="linkedin-icon">](https://www.linkedin.com/in/mehmetmustafagursul/)
