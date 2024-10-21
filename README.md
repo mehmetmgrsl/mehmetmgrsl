@@ -36,5 +36,8 @@ My LinkedIn:
 
 ![DevOps with Mehmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmetmgrsl&show_icons=true&theme=radical)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=mehmetmgrsl&theme=default&hide_border=false)
+
+
 
 
