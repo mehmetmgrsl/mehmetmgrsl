@@ -2,14 +2,14 @@
 
 | Kubernetes | Monitoring | FinOps | DevSecOps |
 | -------- | -------- | -------- |-------- |
-| 1. [kyverno-work](https://github.com/mehmetmgrsl/kyverno-work) | 1. [k8s-prometheus-grafana](https://github.com/mehmetmgrsl/k8s-prometheus-grafana) | 1. [aws-cost-optimization](https://github.com/mehmetmgrsl/aws-cost-optimization) | 1. [copacetic-work](https://github.com/mehmetmgrsl/copacetic-work)
-| 2. [k8s-autoscaling](https://github.com/mehmetmgrsl/k8s-autoscaling)| 2. [prometheus-alert-demo](https://github.com/mehmetmgrsl/prometheus-alert-demo) | 2. [kube-green-work](https://github.com/mehmetmgrsl/kube-green-work)  | 2. [kube-score-work](https://github.com/mehmetmgrsl/kube-score-work)
+| 1. [kyverno-work](https://github.com/mehmetmgrsl/kyverno-work) | 1. [k8s-prometheus-grafana](https://github.com/mehmetmgrsl/k8s-prometheus-grafana) | 1. [aws-cost-optimization](https://github.com/mehmetmgrsl/aws-cost-optimization) | 1. [kube-score-work](https://github.com/mehmetmgrsl/kube-score-work)
+| 2. [k8s-autoscaling](https://github.com/mehmetmgrsl/k8s-autoscaling)| 2. [prometheus-alert-demo](https://github.com/mehmetmgrsl/prometheus-alert-demo) | 2. [kube-green-work](https://github.com/mehmetmgrsl/kube-green-work)  | 2. [aws-guardduty-work](https://github.com/mehmetmgrsl/aws-guardduty-work)
 | 3. [k8s-statefulset](https://github.com/mehmetmgrsl/k8s-statefulset) | 3. [efk-work](https://github.com/mehmetmgrsl/efk-work) | 3. [keda-work](https://github.com/mehmetmgrsl/keda-work) | 3. [sealed-secrets-work](https://github.com/mehmetmgrsl/sealed-secrets-work)
 | 4. [kops-work](https://github.com/mehmetmgrsl/kops-work) | 4. [grafana-loki-work](https://github.com/mehmetmgrsl/grafana-loki-work) | | 4. [aws-vault-work](https://github.com/mehmetmgrsl/aws-vault-work)
-| 5. [create-k8s-cluster](https://github.com/mehmetmgrsl/create-k8s-cluster) | 5. [metrics-server-work](https://github.com/mehmetmgrsl/metrics-server-work)| | 5. [saml-work](https://github.com/mehmetmgrsl/saml-work)
-| 6. [create-k8s-cluster-with-ansible](https://github.com/mehmetmgrsl/create-k8s-cluster-with-ansible) | 6. [aws-cloudwatch-work](https://github.com/mehmetmgrsl/aws-cloudwatch-work) | | 6. [aws-guardduty-work](https://github.com/mehmetmgrsl/aws-guardduty-work)
-| 7. [k8s-operator-work](https://github.com/mehmetmgrsl/k8s-operator-work) |  | |  7. [aws-kms-work](https://github.com/mehmetmgrsl/aws-kms-work)
-| 8. [k8s-chaos-mesh-work](https://github.com/mehmetmgrsl/k8s-chaos-mesh-work)|  |  | 8. [aws-waf-work](https://github.com/mehmetmgrsl/aws-waf-work)
+| 5. [create-k8s-cluster](https://github.com/mehmetmgrsl/create-k8s-cluster) | 5. [metrics-server-work](https://github.com/mehmetmgrsl/metrics-server-work)| |  5. [copacetic-work](https://github.com/mehmetmgrsl/copacetic-work) 
+| 6. [create-k8s-cluster-with-ansible](https://github.com/mehmetmgrsl/create-k8s-cluster-with-ansible) | 6. [aws-cloudwatch-work](https://github.com/mehmetmgrsl/aws-cloudwatch-work) | | 6. [aws-waf-work](https://github.com/mehmetmgrsl/aws-waf-work)
+| 7. [k8s-operator-work](https://github.com/mehmetmgrsl/k8s-operator-work) |  | | 
+| 8. [k8s-chaos-mesh-work](https://github.com/mehmetmgrsl/k8s-chaos-mesh-work)|  |  | 
 | 9. [kustomize-work](https://github.com/mehmetmgrsl/kustomize-work) |  |  | 
 | 10. [karpenter-work](https://github.com/mehmetmgrsl/karpenter-work) |  |  | 
 
