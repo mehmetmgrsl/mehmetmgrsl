@@ -14,29 +14,20 @@
 | 10. [karpenter-work](https://github.com/mehmetmgrsl/karpenter-work) |  |  | 
 
 
-| IAC | Cloud | GitOps | CI/CD |
+| AI | Cloud | GitOps | CI/CD |
 | -------- | -------- | -------- | -------- |
-| 1. [terraform-project](https://github.com/mehmetmgrsl/terraform-project) | 1. [aws-cost-optimization](https://github.com/mehmetmgrsl/aws-cost-optimization) | 1. [argo-cd-multi-cluster-architectures](https://github.com/mehmetmgrsl/argo-cd-multi-cluster-architectures) | 1. [github-common-workflows](https://github.com/mehmetmgrsl/github-common-workflows)|
-| 2. [open-tofu-work](https://github.com/mehmetmgrsl/open-tofu-work) | 2. [aws-rds-work](https://github.com/mehmetmgrsl/aws-rds-work) | 2. [example-argocd-config](https://github.com/mehmetmgrsl/example-argocd-config)| 2. [maven-cicd-demo](https://github.com/mehmetmgrsl/maven-cicd-demo) |
+| 1. [aws-gen-ai-work](https://github.com/mehmetmgrsl/aws-gen-ai-work) | 1. [aws-cost-optimization](https://github.com/mehmetmgrsl/aws-cost-optimization) | 1. [argo-cd-multi-cluster-architectures](https://github.com/mehmetmgrsl/argo-cd-multi-cluster-architectures) | 1. [github-common-workflows](https://github.com/mehmetmgrsl/github-common-workflows)|
+|  | 2. [aws-rds-work](https://github.com/mehmetmgrsl/aws-rds-work) | 2. [example-argocd-config](https://github.com/mehmetmgrsl/example-argocd-config)| 2. [maven-cicd-demo](https://github.com/mehmetmgrsl/maven-cicd-demo) |
 |  | 3. [aws-amplify-work](https://github.com/mehmetmgrsl/aws-amplify-work)  | 3. [minikube-argocd-ingress](https://github.com/mehmetmgrsl/minikube-argocd-ingress)| 3. [gradle-cicd-demo](https://github.com/mehmetmgrsl/gradle-cicd-demo)|
 |  | 4. [route53-work](https://github.com/mehmetmgrsl/route53-work) | 4. [argocd-with-helm](https://github.com/mehmetmgrsl/argocd-with-helm)| 4. [golang-cicd-demo](https://github.com/mehmetmgrsl/example-book-app)
-|  | 5. [aws-gen-ai-work](https://github.com/mehmetmgrsl/aws-gen-ai-work) | 5. [argocd-app-of-apps](https://github.com/mehmetmgrsl/argocd-app-of-apps)| 5. [github-actions-terraform](https://github.com/mehmetmgrsl/github-actions-terraform)
+|  | 5. [terraform-project](https://github.com/mehmetmgrsl/terraform-project) | | 5. [argocd-app-of-apps](https://github.com/mehmetmgrsl/argocd-app-of-apps)| 5. [github-actions-terraform](https://github.com/mehmetmgrsl/github-actions-terraform)
 |  | 6. [aws-direct-connect-work](https://github.com/mehmetmgrsl/aws-direct-connect-work) ||
-|  | 7. [aws-apprunner-work](https://github.com/mehmetmgrsl/aws-apprunner-work) ||
-|  | 8. [eks-work](https://github.com/mehmetmgrsl/eks-work) ||
-|  | 9. [aws-reactapp-s3-work](https://github.com/mehmetmgrsl/aws-reactapp-s3-work)  ||
-
+|  | 7. [eks-work](https://github.com/mehmetmgrsl/eks-work) ||
+|  | 8. [aws-reactapp-s3-work](https://github.com/mehmetmgrsl/aws-reactapp-s3-work)  ||
 
 ---
-
 
 My LinkedIn:
 [<img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-16x16.png" alt="LinkedIn" class="linkedin-icon">](https://www.linkedin.com/in/mehmetmustafagursul/)
 
 ![DevOps with Mehmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmetmgrsl&show_icons=true&theme=radical)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mehmetmgrsl&theme=default&hide_border=false)
-
-
-
-
