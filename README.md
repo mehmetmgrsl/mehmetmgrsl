@@ -20,7 +20,7 @@
 | 2. [deepseek-work](https://github.com/mehmetmgrsl/deepseek-work) | 2. [aws-rds-work](https://github.com/mehmetmgrsl/aws-rds-work) | 2. [example-argocd-config](https://github.com/mehmetmgrsl/example-argocd-config)| 2. [maven-cicd-demo](https://github.com/mehmetmgrsl/maven-cicd-demo) |
 |  | 3. [aws-amplify-work](https://github.com/mehmetmgrsl/aws-amplify-work)  | 3. [minikube-argocd-ingress](https://github.com/mehmetmgrsl/minikube-argocd-ingress)| 3. [gradle-cicd-demo](https://github.com/mehmetmgrsl/gradle-cicd-demo)|
 |  | 4. [route53-work](https://github.com/mehmetmgrsl/route53-work) | 4. [argocd-with-helm](https://github.com/mehmetmgrsl/argocd-with-helm)| 4. [golang-cicd-demo](https://github.com/mehmetmgrsl/example-book-app)
-|  | 5. [terraform-project](https://github.com/mehmetmgrsl/terraform-project) | | 5. [argocd-app-of-apps](https://github.com/mehmetmgrsl/argocd-app-of-apps)| 5. [github-actions-terraform](https://github.com/mehmetmgrsl/github-actions-terraform)
+|  | 5. [terraform-project](https://github.com/mehmetmgrsl/terraform-project) | 5. [argocd-app-of-apps](https://github.com/mehmetmgrsl/argocd-app-of-apps)| 5. [github-actions-terraform](https://github.com/mehmetmgrsl/github-actions-terraform)
 |  | 6. [aws-direct-connect-work](https://github.com/mehmetmgrsl/aws-direct-connect-work) ||
 |  | 7. [eks-work](https://github.com/mehmetmgrsl/eks-work) ||
 |  | 8. [aws-reactapp-s3-work](https://github.com/mehmetmgrsl/aws-reactapp-s3-work)  ||
