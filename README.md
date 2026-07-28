@@ -7,7 +7,7 @@
 | 3. [k8s-gw-api-work](https://github.com/mehmetmgrsl/k8s-gw-api-work) | 3. [efk-work](https://github.com/mehmetmgrsl/efk-work) | 3. [keda-work](https://github.com/mehmetmgrsl/keda-work) | 3. [sealed-secrets-work](https://github.com/mehmetmgrsl/sealed-secrets-work)
 | 4. [k8s-chaos-mesh-work](https://github.com/mehmetmgrsl/k8s-chaos-mesh-work) | 4. [grafana-loki-work](https://github.com/mehmetmgrsl/grafana-loki-work) | | 4. [aws-vault-work](https://github.com/mehmetmgrsl/aws-vault-work)
 | 5. [create-k8s-cluster](https://github.com/mehmetmgrsl/create-k8s-cluster) | 5. [metrics-server-work](https://github.com/mehmetmgrsl/metrics-server-work)| |  5. [copacetic-work](https://github.com/mehmetmgrsl/copacetic-work) 
-| 6. [k8s-vcluster-work](https://github.com/mehmetmgrsl/k8s-vcluster-work) | 6. [aws-cloudwatch-work](https://github.com/mehmetmgrsl/aws-cloudwatch-work) | | 6. [aws-waf-work](https://github.com/mehmetmgrsl/aws-waf-work)
+| 6. [k8s-vcluster-work](https://github.com/mehmetmgrsl/k8s-vcluster-work) | | | 6. [aws-waf-work](https://github.com/mehmetmgrsl/aws-waf-work)
 | 7. [gpujob-operator](https://github.com/mehmetmgrsl/gpujob-operator) |  | | 7. [teleport-work](https://github.com/mehmetmgrsl/teleport-work)
 
 
